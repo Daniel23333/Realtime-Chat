@@ -1,0 +1,11 @@
+{
+  "name": "realtime-chat",
+  "version": "1.0.0",
+  "description": "A demo showing how to use socket.io for realtime interactions.",
+  "main": "./server.js",
+  "scripts": {},
+  "dependencies": {
+    "express": ">=3.1.0",
+    "socket.io": "latest"
+  }
+}
